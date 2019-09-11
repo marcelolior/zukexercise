@@ -1,0 +1,6 @@
+com\zuk\group\server\rest\UserRest.class
+com\zuk\group\server\main\SpringBootRestUsersApplication.class
+com\zuk\group\server\controller\UserController.class
+com\zuk\group\beans\model\User.class
+com\zuk\group\beans\view\UserResponse.class
+com\zuk\group\server\controller\MySQLConnect.class
